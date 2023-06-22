@@ -1,14 +1,27 @@
 <p align="center">
-    <a href="https://docs.scrapy.org/en/latest/">
-        <img src="resources\scrapy_img.png" alt="scrapy">
+    <a href="#">
+        <img src="resources\api_flask.jpeg" alt="flask">
     </a>
 </p>
 
-# Mini Scrapy project
-This is a small project to see how the Python Scrapy library works and how we can get data from different web pages.
+# Api python
+This is a simple api with flask.
+
 
 ## Installation process 
 
 Clone the repository
 
-    git clone https://github.com/pablopuch/scrapy.git
+    git clone https://github.com/pablopuch/app_web_python.git
+
+Install framework Flask
+    
+    pip install flask
+
+Install template jinja2
+
+    pip install jinja2
+
+Install package requests
+
+    pip install jinja2
