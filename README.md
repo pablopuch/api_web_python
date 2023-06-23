@@ -24,4 +24,8 @@ Install template jinja2
 
 Install package requests
 
-    pip install jinja2
+    pip install requests
+
+List installed packages
+
+    pip list
