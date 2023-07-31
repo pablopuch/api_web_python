@@ -29,7 +29,7 @@ List installed packages
 
     pip list
 
-Satrt Web-API
+Start Web-API
 
     python app.py
 
